@@ -34,7 +34,7 @@ Perakitan perangkat keras menggunakan konsep *Common Ground*. Berikut adalah kon
 | **Active Buzzer**| Positif (+) | GPIO 25 | Memberikan sinyal *High* saat alarm aktif |
 | | Negatif (-) | GND | Jalur negatif bersama |
 
-*(images\wiring diagram.png)*
+![Wiring Diagram](images/wiring_diagram.png)
 
 ## Cara Penggunaan / Instalasi
 1. Lakukan *Clone* repositori ini ke penyimpanan lokal Anda.
